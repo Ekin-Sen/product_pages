@@ -1,0 +1,12 @@
+body  {
+    background: linear-gradient(
+to right,
+#20002c,
+#cbb4d4
+);
+}
+
+li>a {
+    color: white;
+    text-decoration: none;
+}
