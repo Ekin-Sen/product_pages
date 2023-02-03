@@ -1,3 +1,6 @@
+* {
+    scroll-behavior: smooth;
+}
 
 li>a {
     color: inherit;
@@ -7,4 +10,8 @@ li>a {
 .p_title {
     text-decoration: none;
     color: inherit;
+}
+
+.sml {
+    font-size: 0.7em;
 }
